@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions",
+        "title": "Unlock Your Potential with Idea Pro"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unlock Your Potential with Idea Pro",
+  "subtitle": "Transform Your Concepts into Reality with Our Cutting-Edge Solutions"
+}
